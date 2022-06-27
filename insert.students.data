@@ -5,6 +5,18 @@ $lastname $_POST=["lastname"];
 $email $_POST=["email"];
 $date_of_birth $_POST=["date of birth"];
 $department $_POST=["department"];
+/*
+if($email == "hackmail.com"){
+
+    echo "Please you can't be registerd";
+}else{
+
+    echo "You can be registerd";
+}
+
+*/
+
+
 
 echo $student_id
 
