@@ -10,43 +10,43 @@
 
 </head>
 <body>
-    <h1 style= "text_align">student registration form </h1>
-    <div class="container">
+    <h1 style= "text-align-center">student registration form </h1>
+    <div class="container" style="background-color:pink">
 <form>
-  <div class="form-group" style="margin-bottom: 20px;">
+  <div class="form-group" style="margin-bottom: 20px;" >
     <label for="exampleInputEmail1">student id</label>
 
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter student id">
+    <input type="text" class="form-control" name="student id" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter student id">
   </div>
    
   <div class="form-group"style="margin-bottom: 20px;">
     <label for="exampleInputEmail1">first name</label>
 
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter first name">
+    <input type="text" class="form-control" name="firstname" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter first name">
   </div>
   
   <div class="form-group" style="margin-bottom: 20px;">
     <label for="exampleInputEmail1">last name</label>
 
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter last name">
+    <input type="text" class="form-control"name="lastname" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter last name">
   </div>
    
   <div class="form-group" style="margin-bottom: 20px;">
     <label for="exampleInputEmail1">date of birth</label>
 
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter date of birth">
+    <input type="text" class="form-control" name="date of birth" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter last name">
   </div>
    
   <div class="form-group"  style="margin-bottom: 20px;">
     <label for="exampleInputEmail1">email</label>
 
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <input type="text" class="form-control" name="email"id="exampleInputEmail1"aria-describedby="emailHelp" placeholder="Enter email">
   </div>
    
   <div class="form-group" style="margin-bottom: 20px;">
     <label for="exampleInputEmail1">department</label>
 
-    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter department">
+    <input type="text" class="form-control" name="department"  id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter department">
   </div>
   
   
