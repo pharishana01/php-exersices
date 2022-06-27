@@ -12,7 +12,7 @@
 <body>
     <h1 style= "text-align-center">student registration form </h1>
     <div class="container" style="background-color:pink">
-<form>
+<form action="insert.students.data">
   <div class="form-group" style="margin-bottom: 20px;" >
     <label for="exampleInputEmail1">student id</label>
 

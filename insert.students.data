@@ -1,0 +1,13 @@
+<?php 
+$student_id $_POST=["student_id"];
+$first_name $_POST=["firstname"];
+$lastname $_POST=["lastname"];
+$email $_POST=["email"];
+$date_of_birth $_POST=["date of birth"];
+$department $_POST=["department"];
+
+echo $student_id
+
+
+
+?>
